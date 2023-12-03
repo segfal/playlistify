@@ -6,6 +6,7 @@ contourpy==1.2.0
 cycler==0.12.1
 filelock==3.13.1
 Flask==3.0.0
+Flask-Cors==4.0.0
 fonttools==4.45.1
 fsspec==2023.10.0
 huggingface-hub==0.19.4
