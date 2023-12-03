@@ -1,8 +1,14 @@
 #dotenv
-import os,sys,subprocess,requests
+import os,sys,subprocess,requests,json,time
 from dotenv import load_dotenv
 
 load_dotenv()
+
+
+
+def json_print(json_data,filename):
+    with open(filename,"w") as file:
+        json.dump(json_data,file,indent=4)
 
 
 CREDENTIALS = {
@@ -33,8 +39,22 @@ def find_song(song_name):
         "Authorization" : f"Bearer {get_token()}"
     }
     response = requests.get(url, params=params, headers=headers)
-    return response.json()["tracks"]["items"]
+    return response.json()["tracks"]["items"][0]["id"]
 
 
 
-song = find_song("hello")
+def get_track(song_name = None ,song_id = None):
+    song = song_name if song_name else song_id
+    #song = find_song(song)
+    url = f"https://api.spotify.com/v1/tracks/{song}"
+    headers = {
+        "Authorization" : f"Bearer {get_token()}"
+    }
+    response = requests.get(url, headers=headers)
+    return response.json()
+
+
+json_print(get_track(song_id="11dFghVXANMlKmJXsNCbNl"),"hello.json")
+
+
+
