@@ -18,12 +18,12 @@ class Deezer:
 
     #login
     def login():
-        url = (f"https://connect.deezer.com/oauth/auth.php?app_id={os.getenv("DEZEER_APP_ID")}&redirect_uri={os.getenv("DEZEER_REDIRET_URI")}&perms=basic_access,email,manage_library,listening_history,offline_access")
+        url = f"https://connect.deezer.com/oauth/auth.php?app_id={os.getenv('DEZEER_APP_ID')}&redirect_uri={os.getenv('DEZEER_REDIRET_URI')}&perms=basic_access,email,manage_library,listening_history,offline_access"
         return redirect(url)
     
     #get access_token
     def get_access_token(code):
-        url = (f"https://connect.deezer.com/oauth/access_token.php?app_id={os.getenv("DEZEER_APP_ID")}&secret={os.getenv("DEZEER_SECRET_KEY")}&code={code}&output=json")
+        url = f"https://connect.deezer.com/oauth/access_token.php?app_id={os.getenv('DEZEER_APP_ID')}&secret={os.getenv('DEZEER_SECRET_KEY')}&code={code}&output=json"
         response = requests.get(url)
         return response.json();
         
