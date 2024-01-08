@@ -2,6 +2,26 @@ import numpy as np
 from collections import Counter
 from sklearn.metrics.pairwise import cosine_similarity
 
+'''
+Still working on this, alot of this code is from chatgpt 
+### Notes ###
+- This is a collaborative filtering algorithm that uses cosine similarity to find the most similar user to the current user
+- The most similar user's most listened to genre is used to recommend artists in that genre
+- This is just an example of how you can use collaborative filtering to recommend artists
+
+I am going to use this to reccomend songs based on the users listening history
+we will create example data for the user and other users
+
+'''
+
+
+
+
+
+
+
+
+
 def find_most(playlist):
     data = Counter(playlist)
     return data.most_common(1)[0][0]
