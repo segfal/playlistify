@@ -1,69 +1,56 @@
-import numpy as np
-from collections import Counter
+import json
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.feature_extraction.text import CountVectorizer
 
-'''
-Still working on this, alot of this code is from chatgpt 
-### Notes ###
-- This is a collaborative filtering algorithm that uses cosine similarity to find the most similar user to the current user
-- The most similar user's most listened to genre is used to recommend artists in that genre
-- This is just an example of how you can use collaborative filtering to recommend artists
+def get_user_playlist(user_id, data):
+    for user_data in data:
+        if user_data["user_id"] == user_id:
+            return user_data["playlist"]
+    return None
 
-I am going to use this to reccomend songs based on the users listening history
-we will create example data for the user and other users
+def get_all_songs(data):
+    all_songs = []
+    for user_data in data:
+        all_songs.extend([f"{song['artist']} - {song['song']}" for song in user_data["playlist"]])
+    return all_songs
 
-'''
+def collaborative_filtering(target_user_id, data):
+    # Get the playlists of the target user and all other users
+    target_playlist = get_user_playlist(target_user_id, data)
+    all_playlists = [user_data["playlist"] for user_data in data]
 
+    # Convert playlists to text representations for CountVectorizer
+    vectorizer = CountVectorizer()
+    all_playlists_text = [' '.join([f"{song['artist']} {song['song']} {song['genre']}" for song in playlist]) for playlist in all_playlists]
+    target_playlist_text = ' '.join([f"{song['artist']} {song['song']} {song['genre']}" for song in target_playlist])
 
+    # Transform text data using CountVectorizer
+    playlists_matrix = vectorizer.fit_transform(all_playlists_text)
+    target_matrix = vectorizer.transform([target_playlist_text])
 
-
-
-
-
-
-
-def find_most(playlist):
-    data = Counter(playlist)
-    return data.most_common(1)[0][0]
-
-def build_playlist(user_data, all_users_data):
-    # Get a union of all genres from user_data and all_users_data
-    all_genres = set(user_data.keys()).union(*(data.keys() for data in all_users_data.values()))
-
-    # Convert user data and all users data to arrays for similarity calculation
-    user_data_array = np.array([user_data.get(genre, 0) for genre in all_genres]).reshape(1, -1)
-    all_users_data_array = np.array([[data.get(genre, 0) for genre in all_genres] for data in all_users_data.values()])
-
-    # Calculate cosine similarity between the user and all other users
-    similarities = cosine_similarity(user_data_array, all_users_data_array)[0]
+    # Calculate cosine similarity
+    similarity_scores = cosine_similarity(target_matrix, playlists_matrix).flatten()
 
     # Find the most similar user
-    most_similar_user_index = np.argmax(similarities)
-    most_similar_user_data = list(all_users_data.values())[most_similar_user_index]
+    most_similar_user_index = similarity_scores.argsort()[-2]
+    most_similar_user_id = data[most_similar_user_index]["user_id"]
 
-    # Get the most common genre listened to by the most similar user
-    recommended_genre = find_most(most_similar_user_data)
+    # Recommend songs from the most similar user's playlist
+    recommended_songs = get_user_playlist(most_similar_user_id, data)
 
-    # Use the recommended genre to suggest artists in that genre
-    recommended_artists = get_artists_in_genre(recommended_genre)
+    return recommended_songs
 
-    print(f"Recommended artists based on collaborative filtering: {', '.join(recommended_artists)}")
+if __name__ == "__main__":
+    # Load the JSON data from the file
+    with open("playlists.json", "r") as json_file:
+        playlists_data = json.load(json_file)
 
-def get_artists_in_genre(genre):
-    # Replace this function with your logic to fetch Deezer artists based on the recommended genre
-    # For example, you can use the Deezer API to search for artists in a particular genre
-    # and return a list of artist names or IDs.
-    return ['Artist1', 'Artist2', 'Artist3']
+    # Choose a target user (e.g., user_id=1)
+    target_user_id = 1
 
-if __name__ == '__main__':
-    # Example user data
-    user_data = {'pop': 2, 'rock': 1, 'jazz': 1, 'hip-hop': 1}
+    # Get recommendations for the target user
+    recommendations = collaborative_filtering(target_user_id, playlists_data)
 
-    # Example data for other users
-    all_users_data = {
-        'user1': {'pop': 3, 'rock': 1, 'jazz': 2, 'hip-hop': 0},
-        'user2': {'pop': 1, 'rock': 2, 'jazz': 0, 'hip-hop': 3},
-        # Add more users and their listening data as needed
-    }
-
-    build_playlist(user_data, all_users_data)
+    print(f"Recommendations for User {target_user_id}:\n")
+    for song in recommendations:
+        print(f"{song['artist']} - {song['song']} ({song['genre']})")
