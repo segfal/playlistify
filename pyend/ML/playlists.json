@@ -1,0 +1,48 @@
+[
+    {
+        "user_id": 1,
+        "playlist": [
+          {"artist": "Arctic Monkeys", "song": "Do I Wanna Know?", "genre": "Indie"},
+          {"artist": "The Black Keys", "song": "Lonely Boy", "genre": "Indie"},
+          {"artist": "Tame Impala", "song": "The Less I Know The Better", "genre": "Indie"}
+        ]
+      },
+
+      {
+  "user_id": 2,
+  "playlist": [
+    {"artist": "ODESZA", "song": "Say My Name", "genre": "Electro"},
+    {"artist": "Flume", "song": "Never Be Like You (feat. Kai)", "genre": "Electro"},
+    {"artist": "Disclosure", "song": "Latch (feat. Sam Smith)", "genre": "Electro"}
+  ]
+    },
+
+    {
+        "user_id": 3,
+        "playlist": [
+          {"artist": "Ed Sheeran", "song": "Thinking Out Loud", "genre": "Acoustic"},
+          {"artist": "Norah Jones", "song": "Don't Know Why", "genre": "Acoustic"},
+          {"artist": "James Taylor", "song": "Fire and Rain", "genre": "Acoustic"}
+        ]
+      },
+      {
+        "user_id": 4,
+        "playlist": [
+          {"artist": "Kendrick Lamar", "song": "HUMBLE.", "genre": "Hip-Hop"},
+          {"artist": "J. Cole", "song": "No Role Modelz", "genre": "Hip-Hop"},
+          {"artist": "Eminem", "song": "Lose Yourself", "genre": "Hip-Hop"}
+        ]
+      },
+      {
+        "user_id": 5,
+        "playlist": [
+          {"artist": "Alt-J", "song": "Breezeblocks", "genre": "Indie"},
+          {"artist": "ODESZA", "song": "It's Only (feat. Zyra)", "genre": "Electro"},
+          {"artist": "Jason Mraz", "song": "I'm Yours", "genre": "Acoustic"},
+          {"artist": "Kendrick Lamar", "song": "DNA.", "genre": "Hip-Hop"}
+        ]
+      }
+      
+      
+
+]
