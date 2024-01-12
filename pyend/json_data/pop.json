@@ -1,0 +1,476 @@
+[
+  {
+    "playlist_id": 3,
+    "artist": "Ed Sheeran",
+    "song": "Shape of You",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Taylor Swift",
+    "song": "Look What You Made Me Do",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Bruno Mars",
+    "song": "That's What I Like",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "The Chainsmokers",
+    "song": "Something Just Like This",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Kendrick Lamar",
+    "song": "HUMBLE.",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "DJ Khaled ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+    "song": "I'm the One",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Luis Fonsi ft. Daddy Yankee",
+    "song": "Despacito (Remix)",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Shawn Mendes",
+    "song": "There's Nothing Holdin' Me Back",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Selena Gomez",
+    "song": "Bad Liar",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Dua Lipa",
+    "song": "New Rules",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Imagine Dragons",
+    "song": "Believer",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Charlie Puth",
+    "song": "Attention",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Sam Smith",
+    "song": "Too Good at Goodbyes",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Camila Cabello ft. Young Thug",
+    "song": "Havana",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Cardi B",
+    "song": "Bodak Yellow",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Portugal. The Man",
+    "song": "Feel It Still",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Maroon 5 ft. SZA",
+    "song": "What Lovers Do",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "P!nk",
+    "song": "What About Us",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "ZAYN ft. Sia",
+    "song": "Dusk Till Dawn",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Macklemore ft. Skylar Grey",
+    "song": "Glorious",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Clean Bandit ft. Zara Larsson",
+    "song": "Symphony",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kygo ft. Selena Gomez",
+    "song": "It Ain't Me",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Katy Perry ft. Skip Marley",
+    "song": "Chained to the Rhythm",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Niall Horan",
+    "song": "Slow Hands",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Calvin Harris ft. Pharrell Williams, Katy Perry, Big Sean",
+    "song": "Feels",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Liam Payne ft. Quavo",
+    "song": "Strip That Down",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Demi Lovato",
+    "song": "Sorry Not Sorry",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Logic ft. Alessia Cara, Khalid",
+    "song": "1-800-273-8255",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Halsey",
+    "song": "Bad at Love",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "DJ Snake ft. Justin Bieber",
+    "song": "Let Me Love You",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "The Weeknd ft. Daft Punk",
+    "song": "I Feel It Coming",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Miley Cyrus",
+    "song": "Malibu",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "N.E.R.D ft. Rihanna",
+    "song": "Lemon",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Avicii ft. Rita Ora",
+    "song": "Lonely Together",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Shawn Mendes",
+    "song": "Mercy",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Zedd ft. Alessia Cara",
+    "song": "Stay",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Alessia Cara",
+    "song": "Scars to Your Beautiful",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "DNCE",
+    "song": "Cake by the Ocean",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Shakira ft. Maluma",
+    "song": "Chantaje",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Sia",
+    "song": "Cheap Thrills",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Khalid",
+    "song": "Young Dumb & Broke",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Katy Perry",
+    "song": "Swish Swish",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Demi Lovato",
+    "song": "Tell Me You Love Me",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Ed Sheeran",
+    "song": "Castle on the Hill",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Macklemore ft. Kesha",
+    "song": "Good Old Days",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Imagine Dragons",
+    "song": "Thunder",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Liam Payne",
+    "song": "Bedroom Floor",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Selena Gomez x Marshmello",
+    "song": "Wolves",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Camila Cabello",
+    "song": "Crying in the Club",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Rita Ora",
+    "song": "Your Song",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Niall Horan",
+    "song": "Too Much to Ask",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Sam Smith",
+    "song": "One Last Song",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Charlie Puth",
+    "song": "How Long",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Hailee Steinfeld x Alesso ft. Florida Georgia Line, WATT",
+    "song": "Let Me Go",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "ZAYN",
+    "song": "Still Got Time",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Justin Bieber + BloodPop",
+    "song": "Friends",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Shawn Mendes",
+    "song": "There's Nothing Holdin' Me Back",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Kygo ft. Justin Jesso",
+    "song": "Stargazing",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Miley Cyrus",
+    "song": "Younger Now",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Portugal. The Man",
+    "song": "Live in the Moment",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "P!nk",
+    "song": "Beautiful Trauma",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "DNCE ft. Nicki Minaj",
+    "song": "Kissing Strangers",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Maroon 5 ft. Future",
+    "song": "Cold",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Linkin Park ft. Kiiara",
+    "song": "Heavy",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Kesha",
+    "song": "Praying",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Rag'n'Bone Man",
+    "song": "Human",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Macklemore ft. Skylar Grey",
+    "song": "Intentions",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Kelly Clarkson",
+    "song": "Love So Soft",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Dua Lipa",
+    "song": "IDGAF",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Taylor Swift",
+    "song": "End Game",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Shakira",
+    "song": "Me Enamor\u00e9",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Ariana Grande",
+    "song": "One Last Time",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "The Chainsmokers",
+    "song": "Paris",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Zedd ft. Alessia Cara",
+    "song": "Stay",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Bebe Rexha",
+    "song": "Meant to Be",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Clean Bandit ft. Julia Michaels",
+    "song": "I Miss You",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Jason Derulo ft. Nicki Minaj, Ty Dolla $ign",
+    "song": "Swalla",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Calvin Harris ft. Future, Khalid",
+    "song": "Rollin",
+    "genre": "pop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Major Lazer ft. Travis Scott, Camila Cabello, Quavo",
+    "song": "Know No Better",
+    "genre": "pop"
+  }
+]

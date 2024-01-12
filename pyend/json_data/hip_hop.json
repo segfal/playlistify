@@ -1,0 +1,374 @@
+[
+  {
+    "playlist_id": 1,
+    "artist": "Drake",
+    "song": "Hotline Bling",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "SICKO MODE",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "Bodak Yellow",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "HUMBLE.",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "Rockstar ft. 21 Savage",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "Bad and Boujee ft. Lil Uzi Vert",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Nicki Minaj",
+    "song": "Anaconda",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Future",
+    "song": "Mask Off",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Lil Nas X",
+    "song": "Old Town Road",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Post Malone",
+    "song": "Circles",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Travis Scott",
+    "song": "SICKO MODE",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Drake",
+    "song": "God's Plan",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Cardi B",
+    "song": "I Like It ft. Bad Bunny, J Balvin",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Lil Uzi Vert",
+    "song": "XO TOUR Llif3",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Kendrick Lamar",
+    "song": "DNA.",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Post Malone",
+    "song": "Congratulations ft. Quavo",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Drake",
+    "song": "In My Feelings",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "ASTROTHUNDER",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "Money",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "LOVE. ft. Zacari",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "White Iverson",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "Stir Fry",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Nicki Minaj",
+    "song": "Super Bass",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Future",
+    "song": "Low Life ft. The Weeknd",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Lil Wayne",
+    "song": "A Milli",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "BUTTERFLY EFFECT",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "Be Careful",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "ELEMENT.",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "Goodbyes ft. Young Thug",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "T-Shirt",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Nicki Minaj",
+    "song": "Chun-Li",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Future",
+    "song": "March Madness",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Lil Uzi Vert",
+    "song": "Sanguine Paradise",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "YOSEMITE",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "Press",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "DNA.",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "Congratulations ft. Quavo",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "MotorSport ft. Nicki Minaj, Cardi B",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Nicki Minaj",
+    "song": "Megatron",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Future",
+    "song": "Life Is Good ft. Drake",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Lil Nas X",
+    "song": "Panini",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "CAN'T SAY",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "WAP ft. Megan Thee Stallion",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "LOYALTY. ft. Rihanna",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "Sunflower ft. Swae Lee",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "Walk It Talk It ft. Drake",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Nicki Minaj",
+    "song": "Good Form",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Future",
+    "song": "Mask Off",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Lil Nas X",
+    "song": "Old Town Road",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Post Malone",
+    "song": "Circles",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Travis Scott",
+    "song": "SICKO MODE",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Drake",
+    "song": "God's Plan",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Cardi B",
+    "song": "I Like It ft. Bad Bunny, J Balvin",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Lil Uzi Vert",
+    "song": "XO TOUR Llif3",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Kendrick Lamar",
+    "song": "DNA.",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Post Malone",
+    "song": "Congratulations ft. Quavo",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Drake",
+    "song": "In My Feelings",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Travis Scott",
+    "song": "ASTROTHUNDER",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Cardi B",
+    "song": "Money",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Kendrick Lamar",
+    "song": "LOVE. ft. Zacari",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Post Malone",
+    "song": "White Iverson",
+    "genre": "hip-hop"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Migos",
+    "song": "Stir Fry",
+    "genre": "hip-hop"
+  }
+]

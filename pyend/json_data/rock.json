@@ -1,0 +1,290 @@
+[
+  {
+    "playlist_id": 2,
+    "artist": "Queen",
+    "song": "Bohemian Rhapsody",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "The Rolling Stones",
+    "song": "Paint It Black",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "The Beatles",
+    "song": "Hey Jude",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Led Zeppelin",
+    "song": "Stairway to Heaven",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Pink Floyd",
+    "song": "Comfortably Numb",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "The Eagles",
+    "song": "Hotel California",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "The Doors",
+    "song": "Light My Fire",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "U2",
+    "song": "With or Without You",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "AC/DC",
+    "song": "Back in Black",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "The Who",
+    "song": "Baba O'Riley",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "The Rolling Stones",
+    "song": "Angie",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Guns N' Roses",
+    "song": "Sweet Child o' Mine",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "The Police",
+    "song": "Every Breath You Take",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Fleetwood Mac",
+    "song": "Go Your Own Way",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Nirvana",
+    "song": "Smells Like Teen Spirit",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Radiohead",
+    "song": "Creep",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "The Rolling Stones",
+    "song": "Gimme Shelter",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Led Zeppelin",
+    "song": "Whole Lotta Love",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Queen",
+    "song": "We Will Rock You",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "The Beatles",
+    "song": "Let It Be",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Pink Floyd",
+    "song": "Wish You Were Here",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "The Eagles",
+    "song": "Take It Easy",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "The Doors",
+    "song": "Riders on the Storm",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "U2",
+    "song": "Beautiful Day",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "AC/DC",
+    "song": "Highway to Hell",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "The Who",
+    "song": "Behind Blue Eyes",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "The Rolling Stones",
+    "song": "Wild Horses",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Guns N' Roses",
+    "song": "November Rain",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "The Police",
+    "song": "Roxanne",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Fleetwood Mac",
+    "song": "Rhiannon",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Nirvana",
+    "song": "Come as You Are",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Radiohead",
+    "song": "Karma Police",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "The Rolling Stones",
+    "song": "Sympathy for the Devil",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Led Zeppelin",
+    "song": "Black Dog",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Queen",
+    "song": "Another One Bites the Dust",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "The Beatles",
+    "song": "Twist and Shout",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Pink Floyd",
+    "song": "Another Brick in the Wall",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "The Eagles",
+    "song": "Peaceful Easy Feeling",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "The Doors",
+    "song": "Break On Through (To the Other Side)",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "U2",
+    "song": "I Still Haven't Found What I'm Looking For",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "AC/DC",
+    "song": "Thunderstruck",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "The Who",
+    "song": "My Generation",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "The Rolling Stones",
+    "song": "Jumpin' Jack Flash",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Guns N' Roses",
+    "song": "Sweet Child o' Mine",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "The Police",
+    "song": "Message in a Bottle",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Fleetwood Mac",
+    "song": "The Chain",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Nirvana",
+    "song": "Lithium",
+    "genre": "rock"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Radiohead",
+    "song": "High and Dry",
+    "genre": "rock"
+  }
+]

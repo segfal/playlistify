@@ -1,0 +1,266 @@
+[
+  {
+    "playlist_id": 2,
+    "artist": "Miles Davis",
+    "song": "So What",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Duke Ellington",
+    "song": "Take the 'A' Train",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Louis Armstrong",
+    "song": "What a Wonderful World",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Esperanza Spalding",
+    "song": "I Know You Know",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "John Coltrane",
+    "song": "My Favorite Things",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Ella Fitzgerald",
+    "song": "Summertime",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Kamasi Washington",
+    "song": "The Epic",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Benny Goodman",
+    "song": "Sing, Sing, Sing",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Billie Holiday",
+    "song": "Strange Fruit",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Dave Brubeck Quartet",
+    "song": "Take Five",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Nina Simone",
+    "song": "Feeling Good",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Herbie Hancock",
+    "song": "Chameleon",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Weather Report",
+    "song": "Birdland",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Diana Krall",
+    "song": "The Look of Love",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Snarky Puppy",
+    "song": "Lingus",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Count Basie",
+    "song": "One O'Clock Jump",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Ella Fitzgerald, Louis Armstrong",
+    "song": "Cheek to Cheek",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Stan Getz, Jo\u00e3o Gilberto ft. Astrud Gilberto",
+    "song": "The Girl from Ipanema",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Chet Baker",
+    "song": "My Funny Valentine",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Pat Metheny Group",
+    "song": "Last Train Home",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Chick Corea",
+    "song": "Spain",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Norah Jones",
+    "song": "Don't Know Why",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Portico Quartet",
+    "song": "Knee-Deep in the North Sea",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Lester Young",
+    "song": "Lester Leaps In",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Sarah Vaughan",
+    "song": "Lullaby of Birdland",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "George Benson",
+    "song": "Breezin'",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Django Reinhardt",
+    "song": "Minor Swing",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Kurt Elling",
+    "song": "A Hard Rain's A-Gonna Fall",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Mahavishnu Orchestra",
+    "song": "Birds of Fire",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Bobby McFerrin",
+    "song": "Don't Worry, Be Happy",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "Robert Glasper Experiment",
+    "song": "Afro Blue",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Artie Shaw",
+    "song": "Begin the Beguine",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Charlie Parker",
+    "song": "Yardbird Suite",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Al Jarreau",
+    "song": "Morning",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Ella Fitzgerald",
+    "song": "Blue Skies",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Snarky Puppy",
+    "song": "What About Me?",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 1,
+    "artist": "Return to Forever",
+    "song": "Spain",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 7,
+    "artist": "Sade",
+    "song": "Smooth Operator",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 5,
+    "artist": "BadBadNotGood",
+    "song": "Lavender",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 3,
+    "artist": "Django Reinhardt",
+    "song": "Djangology",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 2,
+    "artist": "Nina Simone",
+    "song": "I Put a Spell on You",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 4,
+    "artist": "Fourplay",
+    "song": "101 Eastbound",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 0,
+    "artist": "Billie Holiday",
+    "song": "Summertime",
+    "genre": "jazz"
+  },
+  {
+    "playlist_id": 6,
+    "artist": "Kenny Garrett",
+    "song": "Happy People",
+    "genre": "jazz"
+  }
+]
