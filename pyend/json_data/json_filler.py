@@ -64,7 +64,7 @@ def remove_playlist_name(json_file_path):
             del song["playlist_name"]
 
     with open(json_file_path, "w") as file:
-        json.dump(data, file, indent=2)
+        json.dump(data, file, indent=2,ensure_ascii=False)
 
 
 def process_json_files():
