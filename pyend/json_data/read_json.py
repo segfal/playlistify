@@ -1,7 +1,8 @@
 import json
+import os
 
 
-with open("country.json", "r") as file:
-    data = json.load(file)
+json_files = os.listdir('./json_files')
 
-print(len(data))
+
+print(json_files)
