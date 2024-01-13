@@ -1,7 +1,7 @@
 import json
 
 
-with open("pop.json", "r") as file:
+with open("country.json", "r") as file:
     data = json.load(file)
 
-print(len(data[1]))
+print(len(data))
