@@ -1,0 +1,61 @@
+{
+  "id": 3,
+  "reference": "only_trap",
+  "songs": [
+    {
+      "artist": "Roddy Ricch",
+      "song": "The Box",
+      "genre": "trap"
+    },
+    {
+      "artist": "Future ft. Drake",
+      "song": "Life Is Good",
+      "genre": "trap"
+    },
+    {
+      "artist": "Megan Thee Stallion",
+      "song": "Savage",
+      "genre": "trap"
+    },
+    {
+      "artist": "DaBaby ft. Roddy Ricch",
+      "song": "ROCKSTAR",
+      "genre": "trap"
+    },
+    {
+      "artist": "Travis Scott",
+      "song": "HIGHEST IN THE ROOM",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "song": "Futsal Shuffle 2020",
+      "genre": "trap"
+    },
+    {
+      "artist": "Pop Smoke",
+      "song": "Dior",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Baby",
+      "song": "The Bigger Picture",
+      "genre": "trap"
+    },
+    {
+      "artist": "Jack Harlow",
+      "song": "Whats Poppin",
+      "genre": "trap"
+    },
+    {
+      "artist": "Future ft. Lil Uzi Vert",
+      "song": "Patek",
+      "genre": "trap"
+    },
+    {
+      "artist": "Juice WRLD",
+      "song": "Wishing Well",
+      "genre": "trap"
+    }
+  ]
+}

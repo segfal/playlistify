@@ -1,0 +1,146 @@
+{
+  "id": 9,
+  "reference": "mix rb/jazz",
+  "songs": [
+    {
+      "artist": "Beyonc\u00e9",
+      "song": "Partition",
+      "genre": "R&B"
+    },
+    {
+      "artist": "The Weeknd",
+      "song": "The Hills",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Bruno Mars",
+      "song": "Grenade",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Rihanna",
+      "song": "Stay",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Frank Ocean",
+      "song": "Ivy",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Alicia Keys",
+      "song": "Girl on Fire",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Drake",
+      "song": "Hold My Hand",
+      "genre": "R&B"
+    },
+    {
+      "artist": "John Legend",
+      "song": "Green Light",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Bruno Mars",
+      "song": "Just the Way You Are",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Rihanna",
+      "song": "Love On The Brain",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Frank Ocean",
+      "song": "Self Control",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Alicia Keys",
+      "song": "Fallin'",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Drake",
+      "song": "Passionfruit",
+      "genre": "R&B"
+    },
+    {
+      "artist": "John Legend",
+      "song": "Save Room",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Beyonc\u00e9",
+      "song": "Irreplaceable",
+      "genre": "R&B"
+    },
+    {
+      "artist": "The Weeknd",
+      "song": "In The Night",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Bruno Mars",
+      "song": "Versace On The Floor",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Rihanna",
+      "song": "Only Girl (In The World)",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Frank Ocean",
+      "song": "Super Rich Kids",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Alicia Keys",
+      "song": "Empire State of Mind (Part II) Broken Down",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Drake",
+      "song": "Nice For What",
+      "genre": "R&B"
+    },
+    {
+      "artist": "John Legend",
+      "song": "P.D.A. (We Just Don't Care)",
+      "genre": "R&B"
+    },
+    {
+      "artist": "BadBadNotGood",
+      "song": "Lavender",
+      "genre": "jazz"
+    },
+    {
+      "artist": "Django Reinhardt",
+      "song": "Djangology",
+      "genre": "jazz"
+    },
+    {
+      "artist": "Nina Simone",
+      "song": "I Put a Spell on You",
+      "genre": "jazz"
+    },
+    {
+      "artist": "Fourplay",
+      "song": "101 Eastbound",
+      "genre": "jazz"
+    },
+    {
+      "artist": "Billie Holiday",
+      "song": "Summertime",
+      "genre": "jazz"
+    },
+    {
+      "artist": "Kenny Garrett",
+      "song": "Happy People",
+      "genre": "jazz"
+    }
+  ]
+}

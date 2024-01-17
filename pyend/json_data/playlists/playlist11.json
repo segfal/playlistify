@@ -1,0 +1,81 @@
+{
+  "id": 11,
+  "reference": "mix - hiphop/pop",
+  "songs": [
+    {
+      "artist": "Drake",
+      "song": "God's Plan",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Cardi B",
+      "song": "I Like It ft. Bad Bunny, J Balvin",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "song": "XO TOUR Llif3",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Migos",
+      "song": "Stir Fry",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Post Malone",
+      "song": "Congratulations ft. Quavo",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Drake",
+      "song": "In My Feelings",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Travis Scott",
+      "song": "ASTROTHUNDER",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Cardi B",
+      "song": "Money",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Kendrick Lamar",
+      "song": "LOVE. ft. Zacari",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Post Malone",
+      "song": "White Iverson",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Migos",
+      "song": "Stir Fry",
+      "genre": "hip-hop"
+    },
+    {
+      "artist": "Clean Bandit ft. Julia Michaels",
+      "song": "I Miss You",
+      "genre": "pop"
+    },
+    {
+      "artist": "Jason Derulo ft. Nicki Minaj, Ty Dolla $ign",
+      "song": "Swalla",
+      "genre": "pop"
+    },
+    {
+      "artist": "Calvin Harris ft. Future, Khalid",
+      "song": "Rollin",
+      "genre": "pop"
+    },
+    {
+      "artist": "Major Lazer ft. Travis Scott, Camila Cabello, Quavo",
+      "song": "Know No Better",
+      "genre": "pop"
+    }
+  ]
+}
