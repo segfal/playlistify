@@ -7,8 +7,8 @@ const db = require("./database/db");
 const session = require("express-session");
 const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const cors = require("cors");
-const { User } = require("./database/Models");
 const sessionStore = new SequelizeStore({ db });
+const runCassandraDB = require("./database/cassandra_db");
 
 app.use(
   cors({
@@ -58,6 +58,7 @@ async function main() {
   await db.sync();
   await sessionStore.sync();
   await severRun();
+  await runCassandraDB();
 }
 
 main();
