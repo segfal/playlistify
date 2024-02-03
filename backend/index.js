@@ -10,7 +10,8 @@ const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const cors = require("cors");
 const sessionStore = new SequelizeStore({ db });
 const runCassandraDB = require("./database/cassandra_db");
-const cookieParser = require("cookie-parser");
+
+app.use(cookieParser());
 
 app.use(
   cors({
@@ -59,8 +60,8 @@ async function main() {
   console.log("Models in the DB:\n", db.models);
   await db.sync();
   await sessionStore.sync();
-  await severRun();
   await runCassandraDB();
+  await severRun();
 }
 
 main();

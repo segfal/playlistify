@@ -1,5 +1,6 @@
 require("dotenv").config();
 const { Client } = require("cassandra-driver");
+const path = require("path");
 
 const credentials = {
   clientId: process.env.CASSANDRA_CLIENT_ID,
@@ -10,7 +11,10 @@ const credentials = {
 async function runCassandraDB() {
   const client = new Client({
     cloud: {
-      secureConnectBundle: "./secure-connect-playlist-db.zip",
+      secureConnectBundle: path.join(
+        __dirname,
+        "secure-connect-playlist-db.zip"
+      ),
     },
     credentials: {
       username: credentials.clientId,
