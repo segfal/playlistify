@@ -11,7 +11,7 @@ const credentials = {
 async function runCassandraDB() {
   const client = new Client({
     cloud: {
-      secureConnectBundle: path.join(
+      secureConnectBundle: path.resolve(
         __dirname,
         "secure-connect-playlist-db.zip"
       ),
