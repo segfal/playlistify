@@ -2,6 +2,7 @@ require("dotenv").config();
 const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
+const cookieParser = require("cookie-parser");
 const axios = require("axios");
 const db = require("./database/db");
 const session = require("express-session");
@@ -9,6 +10,7 @@ const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const cors = require("cors");
 const sessionStore = new SequelizeStore({ db });
 const runCassandraDB = require("./database/cassandra_db");
+const cookieParser = require("cookie-parser");
 
 app.use(
   cors({
@@ -27,7 +29,7 @@ app.use(
     resave: true,
     saveUninitialized: true,
     cookie: {
-      maxAge: 7 * 24 * 60 * 60 * 1000,
+      maxAge: 2 * 60 * 60 * 1000,
       secure: false,
       httpOnly: false,
       sameSite: false,
@@ -44,7 +46,7 @@ app.get("/", async (req, res) => {
   res.send(response.data);
 });
 
-// app.use("/auth", require("./auth"));
+app.use("/auth", require("./auth"));
 // app.use("/api", require("./api"));
 
 const severRun = () => {

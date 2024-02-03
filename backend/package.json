@@ -21,6 +21,7 @@
     "express-session": "^1.18.0",
     "nodemon": "^3.0.3",
     "pg": "^8.11.3",
+    "querystring": "^0.2.1",
     "sequelize": "^6.35.1"
   }
 }
