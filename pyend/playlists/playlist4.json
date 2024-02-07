@@ -1,0 +1,61 @@
+{
+  "id": 4,
+  "reference": "only_rock",
+  "songs": [
+    {
+      "artist": "Queen",
+      "song": "Bohemian Rhapsody",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "song": "Paint It Black",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Beatles",
+      "song": "Hey Jude",
+      "genre": "rock"
+    },
+    {
+      "artist": "Led Zeppelin",
+      "song": "Stairway to Heaven",
+      "genre": "rock"
+    },
+    {
+      "artist": "Pink Floyd",
+      "song": "Comfortably Numb",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Eagles",
+      "song": "Hotel California",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Doors",
+      "song": "Light My Fire",
+      "genre": "rock"
+    },
+    {
+      "artist": "U2",
+      "song": "With or Without You",
+      "genre": "rock"
+    },
+    {
+      "artist": "AC/DC",
+      "song": "Back in Black",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Who",
+      "song": "Baba O'Riley",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "song": "Angie",
+      "genre": "rock"
+    }
+  ]
+}

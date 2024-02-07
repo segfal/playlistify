@@ -1,0 +1,81 @@
+{
+  "id": 6,
+  "reference": "only_r_b",
+  "songs": [
+    {
+      "artist": "Beyonc\u00e9",
+      "song": "Formation",
+      "genre": "R&B"
+    },
+    {
+      "artist": "The Weeknd",
+      "song": "Blinding Lights",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Bruno Mars",
+      "song": "24K Magic",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Rihanna",
+      "song": "Work",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Frank Ocean",
+      "song": "Thinkin Bout You",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Alicia Keys",
+      "song": "If I Ain't Got You",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Drake",
+      "song": "Hotline Bling",
+      "genre": "R&B"
+    },
+    {
+      "artist": "John Legend",
+      "song": "All of Me",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Beyonc\u00e9",
+      "song": "Drunk in Love",
+      "genre": "R&B"
+    },
+    {
+      "artist": "The Weeknd",
+      "song": "Starboy",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Bruno Mars",
+      "song": "That's What I Like",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Rihanna",
+      "song": "Needed Me",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Frank Ocean",
+      "song": "Lost",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Alicia Keys",
+      "song": "Fallin'",
+      "genre": "R&B"
+    },
+    {
+      "artist": "Drake",
+      "song": "One Dance",
+      "genre": "R&B"
+    }
+  ]
+}

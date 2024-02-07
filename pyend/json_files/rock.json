@@ -1,0 +1,1896 @@
+[
+
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Something From Nothing"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Psycho"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Stressed Out"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Shots"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "genre": "Rock",
+      "song_name": "Why'd You Only Call Me When You're High?"
+    },
+    {
+      "artist": "Elle King",
+      "genre": "Rock",
+      "song_name": "Ex's & Oh's"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "genre": "Rock",
+      "song_name": "Uma Thurman"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "The Vengeful One"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Failure"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Little Monster"
+    },
+    {
+      "artist": "Hozier",
+      "genre": "Rock",
+      "song_name": "Take Me To Church"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "genre": "Rock",
+      "song_name": "Throne"
+    },
+    {
+      "artist": "Sevendust",
+      "genre": "Rock",
+      "song_name": "Thank You"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Cut the Cord"
+    },
+    {
+      "artist": "Three Days Grace",
+      "genre": "Rock",
+      "song_name": "Human Race"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "Cirice"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Lydia"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "The Light"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "Jekyll and Hyde"
+    },
+    {
+      "artist": "Red Sun Rising",
+      "genre": "Rock",
+      "song_name": "The Otherside"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Angels Fall"
+    },
+    {
+      "artist": "Saint Asonia",
+      "genre": "Rock",
+      "song_name": "Better Place"
+    },
+    {
+      "artist": "Pop Evil",
+      "genre": "Rock",
+      "song_name": "Footsteps"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Jenny"
+    },
+    {
+      "artist": "Papa Roach",
+      "genre": "Rock",
+      "song_name": "Gravity ft. Maria Brink"
+    },
+    {
+      "artist": "Halestorm",
+      "genre": "Rock",
+      "song_name": "I Am The Fire"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Bloodfeather"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "From The Pinnacle To The Pit"
+    },
+    {
+      "artist": "Seether",
+      "genre": "Rock",
+      "song_name": "Nobody Praying For Me"
+    },
+    {
+      "artist": "Theory of a Deadman",
+      "genre": "Rock",
+      "song_name": "Angel"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "State Of My Head"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "Wash It All Away"
+    },
+    {
+      "artist": "Sevendust",
+      "genre": "Rock",
+      "song_name": "Death Dance"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "Open Your Eyes"
+    },
+    {
+      "artist": "Pop Evil",
+      "genre": "Rock",
+      "song_name": "Ways to Get High"
+    },
+    {
+      "artist": "Red Sun Rising",
+      "genre": "Rock",
+      "song_name": "Emotionless"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Mom"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "genre": "Rock",
+      "song_name": "R U Mine?"
+    },
+    {
+      "artist": "Elle King",
+      "genre": "Rock",
+      "song_name": "America's Sweetheart"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Congregation"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Dead Inside"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Ride"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "I Bet My Life"
+    },
+    {
+      "artist": "Fall Out Boy",
+      "genre": "Rock",
+      "song_name": "Irresistible"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "Immortalized"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Never Again"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Figure It Out"
+    },
+    {
+      "artist": "Hozier",
+      "genre": "Rock",
+      "song_name": "Someone New"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Heathens"
+    },
+    {
+      "artist": "Bastille",
+      "genre": "Rock",
+      "song_name": "Good Grief"
+    },
+    {
+      "artist": "Green Day",
+      "genre": "Rock",
+      "song_name": "Bang Bang"
+    },
+    {
+      "artist": "The Strumbellas",
+      "genre": "Rock",
+      "song_name": "Spirits"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "genre": "Rock",
+      "song_name": "Dark Necessities"
+    },
+    {
+      "artist": "Kaleo",
+      "genre": "Rock",
+      "song_name": "Way Down We Go"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "genre": "Rock",
+      "song_name": "Death of a Bachelor"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "The Sound of Silence"
+    },
+    {
+      "artist": "Coldplay",
+      "genre": "Rock",
+      "song_name": "Adventure of a Lifetime"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "My Name Is Human"
+    },
+    {
+      "artist": "Blink-182",
+      "genre": "Rock",
+      "song_name": "Bored to Death"
+    },
+    {
+      "artist": "Jimmy Eat World",
+      "genre": "Rock",
+      "song_name": "Sure and Certain"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Never Again"
+    },
+    {
+      "artist": "Volbeat",
+      "genre": "Rock",
+      "song_name": "Seal The Deal"
+    },
+    {
+      "artist": "The Lumineers",
+      "genre": "Rock",
+      "song_name": "Ophelia"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "I Apologize"
+    },
+    {
+      "artist": "Foals",
+      "genre": "Rock",
+      "song_name": "Mountain at My Gates"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Joyride (Omen)"
+    },
+    {
+      "artist": "Skillet",
+      "genre": "Rock",
+      "song_name": "Feel Invincible"
+    },
+    {
+      "artist": "Young the Giant",
+      "genre": "Rock",
+      "song_name": "Something to Believe In"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "Square Hammer"
+    },
+    {
+      "artist": "The 1975",
+      "genre": "Rock",
+      "song_name": "The Sound"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Serotonia"
+    },
+    {
+      "artist": "Deftones",
+      "genre": "Rock",
+      "song_name": "Prayers/Triangles"
+    },
+    {
+      "artist": "Sum 41",
+      "genre": "Rock",
+      "song_name": "Fake My Own Death"
+    },
+    {
+      "artist": "Metallica",
+      "genre": "Rock",
+      "song_name": "Hardwired"
+    },
+    {
+      "artist": "The Pretty Reckless",
+      "genre": "Rock",
+      "song_name": "Take Me Down"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Ashes of Eden"
+    },
+    {
+      "artist": "Red Sun Rising",
+      "genre": "Rock",
+      "song_name": "Emotionless"
+    },
+    {
+      "artist": "A Day to Remember",
+      "genre": "Rock",
+      "song_name": "Paranoia"
+    },
+    {
+      "artist": "A Day to Remember",
+      "genre": "Rock",
+      "song_name": "Naivety"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Asking For It"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Bloodfeather"
+    },
+    {
+      "artist": "Green Day",
+      "genre": "Rock",
+      "song_name": "Still Breathing"
+    },
+    {
+      "artist": "Volbeat",
+      "genre": "Rock",
+      "song_name": "Black Rose"
+    },
+    {
+      "artist": "The Struts",
+      "genre": "Rock",
+      "song_name": "Could Have Been Me"
+    },
+    {
+      "artist": "Korn",
+      "genre": "Rock",
+      "song_name": "Rotting in Vain"
+    },
+    {
+      "artist": "Papa Roach",
+      "genre": "Rock",
+      "song_name": "Crooked Teeth"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Send Me An Angel"
+    },
+    {
+      "artist": "Cage The Elephant",
+      "genre": "Rock",
+      "song_name": "Trouble"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Wolf"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Saint Cecilia"
+    },
+    {
+      "artist": "Metallica",
+      "genre": "Rock",
+      "song_name": "Moth Into Flame"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "State Of My Head"
+    },
+    {
+      "artist": "A Day to Remember",
+      "genre": "Rock",
+      "song_name": "Bullfight"
+    },
+    {
+      "artist": "Beartooth",
+      "genre": "Rock",
+      "song_name": "Hated"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "genre": "Rock",
+      "song_name": "Avalanche"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Run"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Believer"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Heavydirtysoul"
+    },
+    {
+      "artist": "The Killers",
+      "genre": "Rock",
+      "song_name": "The Man"
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "genre": "Rock",
+      "song_name": "The Way You Used to Do"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Lights Out"
+    },
+    {
+      "artist": "The War on Drugs",
+      "genre": "Rock",
+      "song_name": "Thinking of a Place"
+    },
+    {
+      "artist": "Arcade Fire",
+      "genre": "Rock",
+      "song_name": "Everything Now"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Go to War"
+    },
+    {
+      "artist": "Portugal. The Man",
+      "genre": "Rock",
+      "song_name": "Feel It Still"
+    },
+    {
+      "artist": "Kaleo",
+      "genre": "Rock",
+      "song_name": "No Good"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "My Name Is Human"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Highway Tune"
+    },
+    {
+      "artist": "Alice Merton",
+      "genre": "Rock",
+      "song_name": "No Roots"
+    },
+    {
+      "artist": "Rag'n'Bone Man",
+      "genre": "Rock",
+      "song_name": "Human"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Thunder"
+    },
+    {
+      "artist": "Mastodon",
+      "genre": "Rock",
+      "song_name": "Show Yourself"
+    },
+    {
+      "artist": "Kings of Leon",
+      "genre": "Rock",
+      "song_name": "Waste a Moment"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "I Only Lie When I Love You"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Don't Stop"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "The Sky Is a Neighborhood"
+    },
+    {
+      "artist": "The War on Drugs",
+      "genre": "Rock",
+      "song_name": "Pain"
+    },
+    {
+      "artist": "The Killers",
+      "genre": "Rock",
+      "song_name": "Run For Cover"
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "genre": "Rock",
+      "song_name": "Domesticated Animals"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Whatever It Takes"
+    },
+    {
+      "artist": "The xx",
+      "genre": "Rock",
+      "song_name": "On Hold"
+    },
+    {
+      "artist": "Arcade Fire",
+      "genre": "Rock",
+      "song_name": "Creature Comfort"
+    },
+    {
+      "artist": "Rise Against",
+      "genre": "Rock",
+      "song_name": "The Violence"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Little One"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Black Smoke Rising"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "genre": "Rock",
+      "song_name": "Amsterdam"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Hook, Line & Sinker"
+    },
+    {
+      "artist": "The Killers",
+      "genre": "Rock",
+      "song_name": "Runaways"
+    },
+    {
+      "artist": "Depeche Mode",
+      "genre": "Rock",
+      "song_name": "Where's the Revolution"
+    },
+    {
+      "artist": "Queens of the Stone Age",
+      "genre": "Rock",
+      "song_name": "Villains of Circumstance"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "The Line"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Radioactive"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Fade In / Fade Out"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Arrows"
+    },
+    {
+      "artist": "Kings of Leon",
+      "genre": "Rock",
+      "song_name": "Find Me"
+    },
+    {
+      "artist": "Rag'n'Bone Man",
+      "genre": "Rock",
+      "song_name": "Skin"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Blood Hands"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "Serotonia"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Demons"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "This Is the Time (Ballast)"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Highway Tune"
+    },
+    {
+      "artist": "Rise Against",
+      "genre": "Rock",
+      "song_name": "Savior"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Highway Tune"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Jumpsuit"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Natural"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "The Line"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Pressure"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "genre": "Rock",
+      "song_name": "Four Out of Five"
+    },
+    {
+      "artist": "The Revivalists",
+      "genre": "Rock",
+      "song_name": "All My Friends"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "Are You Ready"
+    },
+    {
+      "artist": "Bad Wolves",
+      "genre": "Rock",
+      "song_name": "Zombie"
+    },
+    {
+      "artist": "Three Days Grace",
+      "genre": "Rock",
+      "song_name": "The Mountain"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Devil"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "Rats"
+    },
+    {
+      "artist": "Halestorm",
+      "genre": "Rock",
+      "song_name": "Uncomfortable"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Torn in Two"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "When the Curtain Falls"
+    },
+    {
+      "artist": "Panic! At The Disco",
+      "genre": "Rock",
+      "song_name": "Say Amen (Saturday Night)"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Do Your Worst"
+    },
+    {
+      "artist": "The Struts",
+      "genre": "Rock",
+      "song_name": "Body Talks"
+    },
+    {
+      "artist": "The Interrupters",
+      "genre": "Rock",
+      "song_name": "She's Kerosene"
+    },
+    {
+      "artist": "Alice In Chains",
+      "genre": "Rock",
+      "song_name": "The One You Know"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "Sham Pain"
+    },
+    {
+      "artist": "Godsmack",
+      "genre": "Rock",
+      "song_name": "Bulletproof"
+    },
+    {
+      "artist": "A Perfect Circle",
+      "genre": "Rock",
+      "song_name": "Disillusioned"
+    },
+    {
+      "artist": "Stone Temple Pilots",
+      "genre": "Rock",
+      "song_name": "Meadow"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Do You Really Want It?"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "Ghost"
+    },
+    {
+      "artist": "Pop Evil",
+      "genre": "Rock",
+      "song_name": "Waking Lions"
+    },
+    {
+      "artist": "Bush",
+      "genre": "Rock",
+      "song_name": "Bullet Holes"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Black Smoke Rising"
+    },
+    {
+      "artist": "The Struts",
+      "genre": "Rock",
+      "song_name": "Primadonna Like Me"
+    },
+    {
+      "artist": "Three Days Grace",
+      "genre": "Rock",
+      "song_name": "Infra-Red"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "Dance Macabre"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "A Reason to Fight"
+    },
+    {
+      "artist": "Alice Merton",
+      "genre": "Rock",
+      "song_name": "No Roots"
+    },
+    {
+      "artist": "Nothing More",
+      "genre": "Rock",
+      "song_name": "Just Say When"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "Blue on Black ft. Kenny Wayne Shepherd, Brantley Gilbert, Brian May"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Get Up"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Look Away"
+    },
+    {
+      "artist": "Papa Roach",
+      "genre": "Rock",
+      "song_name": "Who Do You Trust?"
+    },
+    {
+      "artist": "The Blue Stones",
+      "genre": "Rock",
+      "song_name": "Black Holes (Solid Ground)"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Thought Contagion"
+    },
+    {
+      "artist": "Nothing But Thieves",
+      "genre": "Rock",
+      "song_name": "Sorry"
+    },
+    {
+      "artist": "The Glorious Sons",
+      "genre": "Rock",
+      "song_name": "S.O.S. (Sawed Off Shotgun)"
+    },
+    {
+      "artist": "Three Days Grace",
+      "genre": "Rock",
+      "song_name": "Right Left Wrong"
+    },
+    {
+      "artist": "Disturbed",
+      "genre": "Rock",
+      "song_name": "No More"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Sugar on the Bone"
+    },
+    {
+      "artist": "Papa Roach",
+      "genre": "Rock",
+      "song_name": "Elevate"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Tourniquet"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "When the Seasons Change"
+    },
+    {
+      "artist": "Ghost",
+      "genre": "Rock",
+      "song_name": "Faith"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "Fear Inoculum"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Ready to Let Go"
+    },
+    {
+      "artist": "The Black Keys",
+      "genre": "Rock",
+      "song_name": "Lo/Hi"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Do Your Worst"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Lover, Leaver"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "MONSTERS"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Social Cues"
+    },
+    {
+      "artist": "The Raconteurs",
+      "genre": "Rock",
+      "song_name": "Help Me Stranger"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "Pneuma"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "Ghost"
+    },
+    {
+      "artist": "The Black Keys",
+      "genre": "Rock",
+      "song_name": "Go"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "House of Glass"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "When The Curtain Falls"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Sugar on the Bone"
+    },
+    {
+      "artist": "The Glorious Sons",
+      "genre": "Rock",
+      "song_name": "Panic Attack"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Attention Attention"
+    },
+    {
+      "artist": "Foals",
+      "genre": "Rock",
+      "song_name": "Exits"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Skin and Bones"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "Invincible"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Highway Tune"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Look Away"
+    },
+    {
+      "artist": "The Black Keys",
+      "genre": "Rock",
+      "song_name": "Shine a Little Light"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "Heroin"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "GET UP"
+    },
+    {
+      "artist": "The Raconteurs",
+      "genre": "Rock",
+      "song_name": "Somedays (I Don't Feel Like Trying)"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Black Smoke Rising"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Black Madonna"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "Descending"
+    },
+    {
+      "artist": "The Black Keys",
+      "genre": "Rock",
+      "song_name": "Eagle Birds"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Back In The Woods"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "MONSTERS"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "You're The One"
+    },
+    {
+      "artist": "The Glorious Sons",
+      "genre": "Rock",
+      "song_name": "Kingdom in My Heart"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "The Jester"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Night Running (feat. Beck)"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "Culling Voices"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Anthem"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "All Directions"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Darkside"
+    },
+    {
+      "artist": "The Raconteurs",
+      "genre": "Rock",
+      "song_name": "Bored and Razed"
+    },
+    {
+      "artist": "Cage the Elephant",
+      "genre": "Rock",
+      "song_name": "Ready to Let Go"
+    },
+    {
+      "artist": "Tool",
+      "genre": "Rock",
+      "song_name": "7empest"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "x ANA x"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Age of Man"
+    },
+    {
+      "artist": "Rival Sons",
+      "genre": "Rock",
+      "song_name": "Feral Roots"
+    },
+    {
+      "artist": "The Black Keys",
+      "genre": "Rock",
+      "song_name": "Fire Walk With Me"
+    },
+    {
+      "artist": "AC/DC",
+      "genre": "Rock",
+      "song_name": "Shot in the Dark"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Shame Shame"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Level of Concern"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "genre": "Rock",
+      "song_name": "Parasite Eve"
+    },
+    {
+      "artist": "The Killers",
+      "genre": "Rock",
+      "song_name": "My Own Soul's Warning"
+    },
+    {
+      "artist": "Pearl Jam",
+      "genre": "Rock",
+      "song_name": "Dance of the Clairvoyants"
+    },
+    {
+      "artist": "Deftones",
+      "genre": "Rock",
+      "song_name": "Ohms"
+    },
+    {
+      "artist": "Arctic Monkeys",
+      "genre": "Rock",
+      "song_name": "R U Mine?"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Heat Above"
+    },
+    {
+      "artist": "Evanescence",
+      "genre": "Rock",
+      "song_name": "Wasted On You"
+    },
+    {
+      "artist": "The Strokes",
+      "genre": "Rock",
+      "song_name": "Bad Decisions"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Waiting on a War"
+    },
+    {
+      "artist": "AC/DC",
+      "genre": "Rock",
+      "song_name": "Through the Mists of Time"
+    },
+    {
+      "artist": "Green Day",
+      "genre": "Rock",
+      "song_name": "Oh Yeah!"
+    },
+    {
+      "artist": "Metallica",
+      "genre": "Rock",
+      "song_name": "S&M2 - All Within My Hands"
+    },
+    {
+      "artist": "Bush",
+      "genre": "Rock",
+      "song_name": "Flowers On A Grave"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Trouble's Coming"
+    },
+    {
+      "artist": "Ozzy Osbourne",
+      "genre": "Rock",
+      "song_name": "Under the Graveyard"
+    },
+    {
+      "artist": "Sevendust",
+      "genre": "Rock",
+        "song_name": "Blood From A Stone"
+    },
+    {
+      "artist": "Korn",
+      "genre": "Rock",
+      "song_name": "Finally Free"
+    },
+    {
+      "artist": "Bush",
+      "genre": "Rock",
+      "song_name": "The Kingdom"
+    },
+    {
+      "artist": "Breaking Benjamin",
+      "genre": "Rock",
+      "song_name": "Failure"
+    },
+    {
+      "artist": "Seether",
+      "genre": "Rock",
+      "song_name": "Dangerous"
+    },
+    {
+      "artist": "Pop Evil",
+      "genre": "Rock",
+      "song_name": "Work"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Atlas Falls"
+    },
+    {
+      "artist": "Avatar",
+      "genre": "Rock",
+      "song_name": "Colossus"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "Living the Dream"
+    },
+    {
+      "artist": "Stone Temple Pilots",
+      "genre": "Rock",
+      "song_name": "Fare Thee Well"
+    },
+    {
+      "artist": "Badflower",
+      "genre": "Rock",
+      "song_name": "30"
+    },
+    {
+      "artist": "Evanescence",
+      "genre": "Rock",
+      "song_name": "The Game is Over"
+    },
+    {
+      "artist": "I Prevail",
+      "genre": "Rock",
+      "song_name": "Hurricane"
+    },
+    {
+      "artist": "The Pretty Reckless",
+      "genre": "Rock",
+      "song_name": "Death by Rock and Roll"
+    },
+    {
+      "artist": "Beartooth",
+      "genre": "Rock",
+      "song_name": "The Past is Dead"
+    },
+    {
+      "artist": "Seether",
+      "genre": "Rock",
+      "song_name": "Bruised and Bloodied"
+    },
+    {
+      "artist": "Bush",
+      "genre": "Rock",
+      "song_name": "Bullet Holes"
+    },
+    {
+      "artist": "Cory Marks",
+      "genre": "Rock",
+      "song_name": "Outlaws & Outsiders"
+    },
+    {
+      "artist": "Saint Asonia",
+      "genre": "Rock",
+      "song_name": "Blind"
+    },
+    {
+      "artist": "Avatar",
+      "genre": "Rock",
+      "song_name": "A Secret Door"
+    },
+    {
+      "artist": "Shinedown",
+      "genre": "Rock",
+      "song_name": "Cut the Cord"
+    },
+    {
+      "artist": "Papa Roach",
+      "genre": "Rock",
+      "song_name": "The Ending"
+    },
+    {
+      "artist": "Volbeat",
+      "genre": "Rock",
+      "song_name": "Die to Live ft. Neil Fallon"
+    },
+    {
+      "artist": "Highly Suspect",
+      "genre": "Rock",
+      "song_name": "These Days"
+    },
+    {
+      "artist": "The Hu",
+      "genre": "Rock",
+      "song_name": "Wolf Totem ft. Jacoby Shaddix"
+    },
+    {
+      "artist": "Five Finger Death Punch",
+      "genre": "Rock",
+      "song_name": "A Little Bit Off"
+    },
+    {
+      "artist": "Three Days Grace",
+      "genre": "Rock",
+      "song_name": "Wicked Game"
+    },
+    {
+      "artist": "Pop Evil",
+      "genre": "Rock",
+      "song_name": "Breathe Again"
+    },
+    {
+      "artist": "Sevendust",
+      "genre": "Rock",
+      "song_name": "The Day I Tried To Live"
+    },
+    {
+      "artist": "Puscifer",
+      "genre": "Rock",
+      "song_name": "Apocalyptical"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Waiting on a War"
+    },
+    {
+      "artist": "Mammoth WVH",
+      "genre": "Rock",
+      "song_name": "Distance"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Self Destructor"
+    },
+    {
+      "artist": "Kings of Leon",
+      "genre": "Rock",
+      "song_name": "The Bandit"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Heat Above"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Meteor"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Typhoons"
+    },
+    {
+      "artist": "The Pretty Reckless",
+      "genre": "Rock",
+      "song_name": "And So It Went ft. Tom Morello"
+    },
+    {
+      "artist": "Imagine Dragons",
+      "genre": "Rock",
+      "song_name": "Follow You"
+    },
+    {
+      "artist": "Weezer",
+      "genre": "Rock",
+      "song_name": "All My Favorite Songs"
+    },
+    {
+      "artist": "Evanescence",
+      "genre": "Rock",
+      "song_name": "Use My Voice"
+    },
+    {
+      "artist": "Twenty One Pilots",
+      "genre": "Rock",
+      "song_name": "Shy Away"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "My Way, Soon"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "No Son of Mine"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Peach"
+    },
+    {
+      "artist": "Bring Me The Horizon",
+      "genre": "Rock",
+      "song_name": "Teardrops"
+    },
+    {
+      "artist": "Mammoth WVH",
+      "genre": "Rock",
+      "song_name": "Don't Back Down"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Making a Fire"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Trouble's Coming"
+    },
+    {
+      "artist": "The Offspring",
+      "genre": "Rock",
+      "song_name": "Let The Bad Times Roll"
+    },
+    {
+      "artist": "Deftones",
+      "genre": "Rock",
+      "song_name": "Ceremony"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Remember When"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Shame Shame"
+    },
+    {
+      "artist": "The Pretty Reckless",
+      "genre": "Rock",
+      "song_name": "25"
+    },
+    {
+      "artist": "Evanescence",
+      "genre": "Rock",
+      "song_name": "Wasted On You"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Cloudspotter"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Animals"
+    },
+    {
+      "artist": "Mammoth WVH",
+      "genre": "Rock",
+      "song_name": "Epiphany"
+    },
+    {
+      "artist": "Seether",
+      "genre": "Rock",
+      "song_name": "Wasteland"
+    },
+    {
+      "artist": "The Offspring",
+      "genre": "Rock",
+      "song_name": "This Is Not Utopia"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Boilermaker"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Age of Machine"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Mars Simula"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Love Dies Young"
+    },
+    {
+      "artist": "Mammoth WVH",
+      "genre": "Rock",
+      "song_name": "You'll Be The One"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Limbo"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "So Long, Mother Earth"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Chasing Birds"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Built By Nations"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Black Lungs"
+    },
+    {
+      "artist": "Seether",
+      "genre": "Rock",
+      "song_name": "Dangerous"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Piistol Star (Gravity Heels)"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Holding Poison"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "The Weight of Dreams"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Making a Fire"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Heat Above"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Typhoons"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Self Destructor"
+    },
+    {
+      "artist": "Maneskin",
+      "genre": "Rock",
+      "song_name": "Zitti e buoni"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Animals"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Won't Stand Down"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Peach"
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "genre": "Rock",
+      "song_name": "Black Summer"
+    },
+    {
+      "artist": "Weezer",
+      "genre": "Rock",
+      "song_name": "All My Favorite Songs"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Shame Shame"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "My Way, Soon"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Trouble's Coming"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Mars Simula"
+    },
+    {
+      "artist": "Maneskin",
+      "genre": "Rock",
+      "song_name": "I WANNA BE YOUR SLAVE"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Meteor"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Waiting on a War"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Dead Inside"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Age of Machine"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Boilermaker"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Remember When"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "No Son of Mine"
+    },
+    {
+      "artist": "Weezer",
+      "genre": "Rock",
+      "song_name": "Hero"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Broken Bells"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Limbo"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "So Long, Mother Earth"
+    },
+    {
+      "artist": "Maneskin",
+      "genre": "Rock",
+      "song_name": "CORALINE"
+    },
+    {
+      "artist": "Architects",
+      "genre": "Rock",
+      "song_name": "Meteor (Orchestral)"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Chasing Birds"
+    },
+    {
+      "artist": "Muse",
+      "genre": "Rock",
+      "song_name": "Pressure"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Oblivion"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Verruckt"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Cloudspotter"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "The Barbarians"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Hold On"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "Pistol Star (Gravity Heals)"
+    },
+    {
+      "artist": "Maneskin",
+      "genre": "Rock",
+      "song_name": "FOR YOUR LOVE"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Love Dies Young"
+    },
+    {
+      "artist": "Weezer",
+      "genre": "Rock",
+      "song_name": "The End of the Game"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Stardust Chords"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "Either You Want It"
+    },
+    {
+      "artist": "Chevelle",
+      "genre": "Rock",
+      "song_name": "So, When Are We Doing This?"
+    },
+    {
+      "artist": "Maneskin",
+      "genre": "Rock",
+      "song_name": "LA PENA DEL VECCHIO"
+    },
+    {
+      "artist": "Foo Fighters",
+      "genre": "Rock",
+      "song_name": "Medicine at Midnight"
+    },
+    {
+      "artist": "Greta Van Fleet",
+      "genre": "Rock",
+      "song_name": "Caravel"
+    },
+    {
+      "artist": "Royal Blood",
+      "genre": "Rock",
+      "song_name": "All We Have Is Now"
+    }
+    
+
+    
+    
+    
+    
+    
+    
+
+    
+
+  
+
+]

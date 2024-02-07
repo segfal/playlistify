@@ -1,0 +1,101 @@
+{
+  "id": 10,
+  "reference": "mix trap/rock",
+  "songs": [
+    {
+      "artist": "Gunna",
+      "song": "Met Gala",
+      "genre": "trap"
+    },
+    {
+      "artist": "Travis Scott",
+      "song": "STARGAZING",
+      "genre": "trap"
+    },
+    {
+      "artist": "Pop Smoke ft. Lil Tjay",
+      "song": "Mood Swings",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "song": "Baby Pluto",
+      "genre": "trap"
+    },
+    {
+      "artist": "Moneybagg Yo",
+      "song": "Said Sum",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Mosey",
+      "song": "Blueberry Faygo",
+      "genre": "trap"
+    },
+    {
+      "artist": "Future",
+      "song": "Life Is Good",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "song": "Silly Watch",
+      "genre": "trap"
+    },
+    {
+      "artist": "Travis Scott",
+      "song": "HIGHEST IN THE ROOM",
+      "genre": "trap"
+    },
+    {
+      "artist": "Roddy Ricch",
+      "song": "High Fashion",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Wayne",
+      "song": "Funeral",
+      "genre": "trap"
+    },
+    {
+      "artist": "DaBaby ft. Quavo",
+      "song": "PICK UP",
+      "genre": "trap"
+    },
+    {
+      "artist": "Future ft. Drake",
+      "song": "Life Is Good (Remix)",
+      "genre": "trap"
+    },
+    {
+      "artist": "Lil Baby",
+      "song": "Emotionally Scarred",
+      "genre": "trap"
+    },
+    {
+      "artist": "The Rolling Stones",
+      "song": "Jumpin' Jack Flash",
+      "genre": "rock"
+    },
+    {
+      "artist": "Guns N' Roses",
+      "song": "Sweet Child o' Mine",
+      "genre": "rock"
+    },
+    {
+      "artist": "The Police",
+      "song": "Message in a Bottle",
+      "genre": "rock"
+    },
+    {
+      "artist": "Fleetwood Mac",
+      "song": "The Chain",
+      "genre": "rock"
+    },
+    {
+      "artist": "Nirvana",
+      "song": "Lithium",
+      "genre": "rock"
+    }
+  ]
+}
