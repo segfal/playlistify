@@ -59,6 +59,7 @@ const severRun = () => {
 
 async function main() {
   console.log("Models in the DB:\n", db.models);
+  await db.drop();
   await db.sync();
   await sessionStore.sync();
   await runCassandraDB();

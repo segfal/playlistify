@@ -3,18 +3,31 @@ const queryString = require("querystring");
 let stateKey = "spotify_auth_state";
 const { User } = require("../database/Models");
 const axios = require("axios");
+const { json } = require("body-parser");
 
-async function logUser(data) {
+async function logUser(data, req) {
   const access_token = data.access_token;
 
   try {
-    const response = await axios.get("https://api.spotify.com/v1/me", {
+    const response = await axios.get(`${process.env.SPOTIFY_BASE_URL}/me`, {
       headers: {
         Authorization: `Bearer ${access_token}`,
       },
     });
 
-    console.log(response.data);
+    const { display_name, id, email, followers } = response.data;
+
+    const user = await User.findOrCreate({
+      where: { email: email },
+      defaults: {
+        display_name,
+        user_id: id,
+        email,
+        access_token,
+        follower_count: followers.total,
+      },
+    });
+    req.session.user = JSON.stringify(user);
   } catch (error) {
     console.error(error);
   }
@@ -53,8 +66,7 @@ router.get("/", (req, res) => {
       .then((response) => {
         if (response.status === 200) {
           response.json().then(async (data) => {
-            await logUser(data);
-            console.log(`Data: `, data);
+            await logUser(data, req);
             res.send({ data });
           });
         }
