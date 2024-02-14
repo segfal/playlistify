@@ -7,22 +7,18 @@ const User = db.define("User", {
     primaryKey: true,
     allowNull: false,
   },
-  username: {
-    type: DataTypes.STRING,
-    allowNull: false,
-    unique: true,
-  },
-  first_name: {
+  display_name: {
     type: DataTypes.STRING,
     allowNull: true,
   },
-  last_name: {
+  email: {
     type: DataTypes.STRING,
     allowNull: true,
   },
-  password: {
-    type: DataTypes.STRING,
+  follower_count: {
+    type: DataTypes.INTEGER,
     allowNull: true,
+    defaultValue: 0,
   },
   access_token: {
     type: DataTypes.STRING,

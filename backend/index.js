@@ -42,9 +42,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", async (req, res) => {
-  const response = await axios.get("http://localhost:5000");
+  // const response = await axios.get("http://localhost:5000");
 
-  res.send(response.data);
+  // res.send(response.data);
+  res.send("Hello");
 });
 
 app.use("/auth", require("./auth"));
