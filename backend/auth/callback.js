@@ -17,7 +17,7 @@ async function logUser(data, req) {
 
     const { display_name, id, email, followers } = response.data;
 
-    const user = await User.findOrCreate({
+    const [user, created] = await User.findOrCreate({
       where: { email: email },
       defaults: {
         display_name,
@@ -27,6 +27,10 @@ async function logUser(data, req) {
         follower_count: followers.total,
       },
     });
+
+    await user.update({ access_token: access_token });
+    await user.save();
+
     req.session.user = JSON.stringify(user);
   } catch (error) {
     console.error(error);
