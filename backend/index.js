@@ -9,7 +9,7 @@ const session = require("express-session");
 const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const cors = require("cors");
 const sessionStore = new SequelizeStore({ db });
-const runCassandraDB = require("./database/cassandra_db");
+const { runCassandraDB } = require("./database/cassandra_db");
 
 app.use(cookieParser());
 
