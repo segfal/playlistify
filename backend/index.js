@@ -9,7 +9,7 @@ const session = require("express-session");
 const SequelizeStore = require("connect-session-sequelize")(session.Store);
 const cors = require("cors");
 const sessionStore = new SequelizeStore({ db });
-const runCassandraDB = require("./database/cassandra_db");
+const { runCassandraDB } = require("./database/cassandra_db");
 
 app.use(cookieParser());
 
@@ -42,13 +42,14 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get("/", async (req, res) => {
-  const response = await axios.get("http://localhost:5000");
+  // const response = await axios.get("http://localhost:5000");
 
-  res.send(response.data);
+  // res.send(response.data);
+  res.send("Hello");
 });
 
 app.use("/auth", require("./auth"));
-// app.use("/api", require("./api"));
+app.use("/api", require("./api"));
 
 const severRun = () => {
   app.listen(process.env.PORT, () => {
@@ -58,6 +59,7 @@ const severRun = () => {
 
 async function main() {
   console.log("Models in the DB:\n", db.models);
+  // await db.drop();
   await db.sync();
   await sessionStore.sync();
   await runCassandraDB();

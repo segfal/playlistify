@@ -2,9 +2,40 @@ const router = require("express").Router();
 const queryString = require("querystring");
 let stateKey = "spotify_auth_state";
 const { User } = require("../database/Models");
-const { response } = require("express");
-const { send } = require("process");
-const { where } = require("sequelize");
+const axios = require("axios");
+const { json } = require("body-parser");
+
+async function logUser(data, req) {
+  const access_token = data.access_token;
+
+  try {
+    const response = await axios.get(`${process.env.SPOTIFY_BASE_URL}/me`, {
+      headers: {
+        Authorization: `Bearer ${access_token}`,
+      },
+    });
+
+    const { display_name, id, email, followers } = response.data;
+
+    const [user, created] = await User.findOrCreate({
+      where: { email: email },
+      defaults: {
+        display_name,
+        user_id: id,
+        email,
+        access_token,
+        follower_count: followers.total,
+      },
+    });
+
+    await user.update({ access_token: access_token });
+    await user.save();
+
+    req.session.user = JSON.stringify(user);
+  } catch (error) {
+    console.error(error);
+  }
+}
 
 router.get("/", (req, res) => {
   let code = req.query.code || null;
@@ -39,14 +70,7 @@ router.get("/", (req, res) => {
       .then((response) => {
         if (response.status === 200) {
           response.json().then(async (data) => {
-            // const user = await User.findByPk(req.user.user_id);
-
-            // user.access_token = data.access_token;
-            // await user.save();
-
-            //data.refresh_token will not be use
-
-            console.log(`Data: `, data);
+            await logUser(data, req);
             res.send({ data });
           });
         }

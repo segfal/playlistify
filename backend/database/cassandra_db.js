@@ -8,34 +8,31 @@ const credentials = {
   token: process.env.CASSANDRA_TOKEN,
 };
 
-async function runCassandraDB() {
-  const client = new Client({
-    cloud: {
-      secureConnectBundle: path.resolve(
-        __dirname,
-        "secure-connect-playlist-db.zip"
-      ),
-    },
-    credentials: {
-      username: credentials.clientId,
-      password: credentials.secret,
-    },
-  });
+const client = new Client({
+  cloud: {
+    secureConnectBundle: `${__dirname}/secure-connect-playlist-db.zip`,
+  },
+  credentials: {
+    username: credentials.clientId,
+    password: credentials.secret,
+  },
+});
 
+async function runCassandraDB() {
   await client.connect();
 
   // Execute a query
   const rs = await client.execute("SELECT * FROM playlist.playlist_tb");
   console.log(`Your cluster returned ${rs.rowLength} row(s)`);
-  console.dir(rs);
+  // console.dir(rs);
 
-  let properties = rs.columns.map((element) => element.name);
-  let tabularData = rs.rows;
-  console.log(tabularData, properties);
-  console.table(tabularData);
+  // let properties = rs.columns.map((element) => element.name);
+  // let tabularData = rs.rows;
+  // console.log(tabularData, properties);
+  // console.table(tabularData);
 
   await client.shutdown();
 }
 
 // Run the async function
-module.exports = runCassandraDB;
+module.exports = { client, runCassandraDB };
