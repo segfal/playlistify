@@ -9,7 +9,8 @@ from deezer import (
     get_access_token,
 )  # Import the functions from deezer.py
 import os
-
+from database.cassandraDB import connect_to_cassandra
+  
 app = Flask(__name__)  # Creates the server
 CORS(app)  # Allows cross origin requests
 app.secret_key = os.getenv("SECRET_KEY")
@@ -57,6 +58,5 @@ def deezer_album(album):
 @app.route("/deezer/track/<track>")
 def deezer_track(track):
     return get_track(track)
-
 
 app.run()
